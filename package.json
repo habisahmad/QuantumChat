@@ -1,0 +1,17 @@
+{
+  "name": "quantumchat",
+  "version": "1.0.0",
+  "description": "QuantumChat is an A.I Companion powered by GPT-3.5, allowing for interactive answers to frequently asked questions from users. The bot responds to messages using the GPT-3.5 language model, providing a natural and human-like conversation experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0"
+  }
+}
